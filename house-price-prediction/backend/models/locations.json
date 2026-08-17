@@ -1,0 +1,11 @@
+{
+  "field": "ocean_proximity",
+  "label": "Ocean Proximity",
+  "options": [
+    "<1H OCEAN",
+    "INLAND",
+    "ISLAND",
+    "NEAR BAY",
+    "NEAR OCEAN"
+  ]
+}
